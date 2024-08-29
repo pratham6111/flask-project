@@ -1,2 +1,2 @@
 # flask-project
-created the flask project which named as MyToDo List , technologies used in this for frontend is html css and bootstrap , and for backend sqlite database , sqlalchemy toolkit , python , flask
+I created a Flask project named 'MyToDo List,' using HTML, CSS, and Bootstrap for the frontend, and SQLite, SQLAlchemy, Python, and Flask for the backend.
