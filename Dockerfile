@@ -1,4 +1,4 @@
-FROM docker.io/python:3
+FROM docker.io/python:slim
 WORKDIR /app
 COPY . .
 RUN pip install -r requirements.txt
